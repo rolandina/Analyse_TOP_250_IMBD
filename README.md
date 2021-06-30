@@ -1,14 +1,24 @@
 # *Analysis_TOP_250_IMBd* 
 
+
 ## *What is does*
 
-In this ipython notebook shows the analysis of Top 250 of the most rated movies on IMBd site.
-The notebook consists from 2 parts:
+In this project the analysis of Top 250 of the most rated movies on [IMBd](https://www.imdb.com/search/title/?groups=top_250&sort=user_rating) site is presented.
 
-- extract the data from the site
+Project plan:
+
+- extract the data from the site with scraping and create data frame with data
 - analysis of the data and the visualization.
 
+
 Just to view notebook you can browse html version.
+
+Files:
+
+*[data.py]() - class to get data
+*[viz.py]() - class with viz function
+*[Analyse_TOP_250_IMBD.ipynb]() - notebook with vizualization
+
 
 
 ## General Prerequisites (for running and building)
@@ -16,6 +26,14 @@ Just to view notebook you can browse html version.
 You can download this notebook and open it in your laptop, for that you will have to 
 install and jupyther notebook
 * [Anaconda](https://www.anaconda.com/products/individual)
+
+
+## To build and run 
+
+```
+# Clone this repository 
+git clone https://github.com/rolandina/house-price-prediction.git
+```
 
 
 ## Contributing
