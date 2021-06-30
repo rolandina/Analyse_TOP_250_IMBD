@@ -15,9 +15,9 @@ Just to view notebook you can browse html version.
 
 Files:
 
-*[data.py]() - class to get data
-*[viz.py]() - class with viz function
-*[Analyse_TOP_250_IMBD.ipynb]() - notebook with vizualization
+- [data.py](https://github.com/rolandina/Analysis_TOP_250_IMBd/blob/master/data.py) : class to get data
+- [viz.py](https://github.com/rolandina/Analysis_TOP_250_IMBd/blob/master/viz.py) : class with viz function
+- [Analyse_TOP_250_IMBD.ipynb](https://github.com/rolandina/Analysis_TOP_250_IMBd/blob/master/Analyse_TOP_250_IMBD.ipynb) : notebook with vizualization
 
 
 
@@ -25,7 +25,8 @@ Files:
 
 You can download this notebook and open it in your laptop, for that you will have to 
 install and jupyther notebook
-* [Anaconda](https://www.anaconda.com/products/individual)
+
+- [Anaconda](https://www.anaconda.com/products/individual)
 
 
 ## To build and run 
